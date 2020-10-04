@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+figure {
+    text-align: center;
+    background-color: lightgrey;
+}
+#image{
+    max-width: 30%;
+    height: auto;
+}
+
+body{
+    background-color: gainsboro;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h4{
+    text-align: center;
+}
